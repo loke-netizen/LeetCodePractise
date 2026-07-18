@@ -1,5 +1,5 @@
 let nums =  [0,0,0]
-let target = 9;
+let target = 0;
 function sum(nums) {
   let newArr = []
   for (let i = 0; i < nums.length; i++) {
